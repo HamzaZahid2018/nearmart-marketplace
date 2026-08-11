@@ -1,0 +1,6 @@
+{
+  "name": "NearMart",
+  "description": "A premium, modern Hyperlocal Marketplace connecting neighborhood shops with nearby customers.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
